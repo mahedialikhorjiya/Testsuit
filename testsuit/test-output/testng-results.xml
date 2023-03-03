@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T04:44:14Z" name="Default suite" finished-at="2022-11-05T04:44:21Z" duration-ms="7220">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T04:44:14Z" name="Default test" finished-at="2022-11-05T04:44:21Z" duration-ms="7220">
+      <class name="com.hrms.testscripts.TC002">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@73302995]" started-at="2022-11-05T10:14:14Z" name="tc002" finished-at="2022-11-05T10:14:21Z" duration-ms="7210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.testscripts.TC002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
